@@ -42,6 +42,13 @@ const projects = [
     /** livePreview: 'https://github.com' */
   },
   {
+    name: 'My Portfolio',
+    description: 'It´s my personal portfolio made with REACT',
+    stack: ['Html', 'CSS', 'JavaScript', 'React', 'Material UI'],
+    sourceCode: 'https://github.com/rodrigoguzman83/my-portfolio',
+    livePreview: 'https://rodrigoguzman83.github.io/my-portfolio/',
+  },
+  {
     name: 'To Do List',
     description: 'It´s a simple To-Do-List App made with REACT',
     stack: ['Html', 'CSS', 'JavaScript', 'React', 'React-Bootstrap'],
