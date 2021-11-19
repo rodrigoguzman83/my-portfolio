@@ -7,7 +7,7 @@ const about = {
   name: 'Luis Rodrigo Guzman',
   role: 'Full Stack Engineer',
   description:
-    'I am a developer with +6 years of experience in BACKEND, as well as FRONTEND, DATA BASES & QA. I have a positive mindset, good communication skills and a very proactive and versatile approach. I love working with multi-disciplinary teams, and I am focused on results. With my experience and my background, we will be able to achieve the corporate goals to improve the company performance and to optimize the companys systems',
+    "I am a developer with +6 years of experience in BACKEND, as well as FRONTEND, DATA BASES & QA. I have a positive mindset, good communication skills and a very proactive and versatile approach. I love working with multi-disciplinary teams, and I focus on results. With my experience and my background, we will be able to achieve the corporate goals to improve the company performance and to optimize the company's systems",
   resume:
     'https://drive.google.com/file/d/17J0qM6UI3UcH-LCvKaLiA3k_HaDH9uyM/view?usp=sharing',
   social: {
@@ -21,21 +21,21 @@ const projects = [
   {
     name: 'CRUD with Laravel',
     description:
-      'It´s a simple app to manage your articles and to have an advanced interaction controls',
+      'It´s a simple App to manage your articles and facilitate advanced interaction controls',
     stack: ['Laravel', 'MySql', 'Bootstrap', 'DataTable'],
     sourceCode:
       'https://github.com/rodrigoguzman83/CRUD_Laravel_Bootstrap_Datatable',
     /** livePreview: 'https://github.com' */
   },
   {
-    name: 'Travels APP',
-    description: 'It´s a simple App to manage your travels',
+    name: 'Travel APP',
+    description: 'It´s a simple App to manage your trips',
     stack: ['Laravel', 'MySql', 'Bootstrap'],
     sourceCode: 'https://github.com/rodrigoguzman83/agencia-app',
     /** livePreview: 'https://github.com' */
   },
   {
-    name: 'Products APP',
+    name: 'Product APP',
     description: 'It´s a simple App to manage your products',
     stack: ['Laravel', 'MySql', 'Bootstrap'],
     sourceCode: 'https://github.com/rodrigoguzman83/catalogo-app',
@@ -50,15 +50,15 @@ const projects = [
   },
   {
     name: 'To Do List',
-    description: 'It´s a simple To-Do-List App made with REACT',
+    description: 'It´s a simple To-Do List App made with REACT',
     stack: ['Html', 'CSS', 'JavaScript', 'React', 'React-Bootstrap'],
     sourceCode: 'https://github.com/rodrigoguzman83/toDoListFirstVersion',
     livePreview: 'https://elegant-wright-5ea92f.netlify.app/',
   },
   {
-    name: 'Tweets List App',
+    name: 'Tweet List App',
     description:
-      'It´s a simple Tweets-List App made with Javascript using Local Storage',
+      'It´s a simple Tweets List App made with Javascript using Local Storage',
     stack: ['Html', 'CSS', 'JavaScript'],
     sourceCode: 'https://github.com/rodrigoguzman83/project-local-storage',
     livePreview: 'https://project-local-storage-m8w1m4ahr.vercel.app/',
